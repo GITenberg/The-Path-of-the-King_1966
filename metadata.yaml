@@ -1,0 +1,37 @@
+_repo: The-Path-of-the-King_1966
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: Best known for penning the spy thriller The Thirty-Nine Steps, author
+  and politician John Buchan produced dozens of fiction and non-fiction works over
+  the course of his career. The Path of the King is a sprawling epic that takes the
+  reader on a trip through the lives of centuries' worth of kings and leaders, beginning
+  in ancient times and ending with a surprising twist in nineteenth-century America.
+  Fans of fast-paced historical fiction will love this inventive novel.
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'War stories'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Prologue -- Hightower under Sunfell -- The Englishman -- The wife
+  of Flanders -- Eyes of youth -- The maid -- The wood of life -- Eaucourt by the
+  waters -- The hidden city -- The regicide -- The marplot -- The lit chamber -- In
+  the dark land -- The last stage -- The end of the road -- Epilogue.
+title: The Path of the King
+url: http://www.gutenberg.org/ebooks/1966
