@@ -1,5 +1,8 @@
 _repo: The-Path-of-the-King_1966
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buchan, John
@@ -15,6 +18,8 @@ description: Best known for penning the spy thriller The Thirty-Nine Steps, auth
   reader on a trip through the lives of centuries' worth of kings and leaders, beginning
   in ancient times and ending with a surprising twist in nineteenth-century America.
   Fans of fast-paced historical fiction will love this inventive novel.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1966#The-Path-of-the-King
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
 identifiers:
